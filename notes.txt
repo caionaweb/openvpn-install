@@ -1,3 +1,4 @@
+management localhost 1717
 route-nopull
 client-to-client
 date
