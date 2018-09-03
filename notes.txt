@@ -3,3 +3,4 @@ route-nopull
 client-to-client
 date
 ntp
+192.10.240.94
